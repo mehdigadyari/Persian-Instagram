@@ -1,0 +1,8 @@
+{
+    "vscode-janus-debug.uploadOnSave": [
+        "index"
+    ],
+    "vscode-janus-debug.uploadManually": [
+        "SearchItem"
+    ]
+}
